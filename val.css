@@ -1,0 +1,11 @@
+.form-div label.error {
+
+color:red;
+
+background: url(unvalid.gif) no-repeat;
+}
+.form-div label.valid {
+
+color:#0000ff;
+background: url(valid.gif) center no-repeat;
+}
